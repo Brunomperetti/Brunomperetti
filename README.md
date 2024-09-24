@@ -3,9 +3,6 @@
 ## Mi Trayectoria
 Como científico de datos, utilizo técnicas de análisis de datos para interpretar información compleja y mejorar la efectividad de las estrategias de marketing. Aprovecho los datos disponibles para optimizar campañas, enfocándome siempre en lo que realmente funciona y aporta valor a las empresas
 
-### Adaptándome a la Era de los Datos
-Con el tiempo, entendí que los datos eran la clave para mejorar y personalizar las estrategias. En 2024, sumé la ciencia de datos, fusionando creatividad y análisis para optimizar cada campaña. Mi objetivo es aprovechar la potencia de los datos para generar resultados que realmente aporten valor a las empresas.
-
 ## Mis Habilidades
 - Estrategias de redes sociales
 - Email marketing
