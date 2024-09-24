@@ -1,7 +1,7 @@
 # ¡Hola, soy Bruno! 👋
 
 ## Mi Trayectoria
-Desde 2007, comencé en el mundo de la publicidad cuando los datos eran más limitados y las decisiones se basaban principalmente en la creatividad pura y el instinto. A medida que el marketing fue evolucionando, también lo hice yo. En 2015, me especialicé en marketing digital, dominando estrategias para redes sociales, email marketing, Google Ads, entre otras.
+Como científico de datos, utilizo técnicas de análisis de datos para interpretar información compleja y mejorar la efectividad de las estrategias de marketing. Aprovecho los datos disponibles para optimizar campañas, enfocándome siempre en lo que realmente funciona y aporta valor a las empresas
 
 ### Adaptándome a la Era de los Datos
 Con el tiempo, entendí que los datos eran la clave para mejorar y personalizar las estrategias. En 2024, sumé la ciencia de datos, fusionando creatividad y análisis para optimizar cada campaña. Mi objetivo es aprovechar la potencia de los datos para generar resultados que realmente aporten valor a las empresas.
