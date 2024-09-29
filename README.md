@@ -1,6 +1,6 @@
 # ¡Hola, soy Bruno! 👋
 
-## Mi Trayectoria
+## Perfil Profesional
 Como científico de datos, utilizo técnicas de análisis de datos para interpretar información compleja y mejorar la efectividad de las estrategias de marketing. Aprovecho los datos disponibles para optimizar campañas, enfocándome siempre en lo que realmente funciona y aporta valor a las empresas
 
 ## Mis Habilidades
