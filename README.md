@@ -19,4 +19,5 @@ Utilizo mi experiencia y conocimientos para crear estrategias basadas en datos q
 ## Conéctate conmigo
 Puedes encontrarme en:
 - [LinkedIn](https://www.linkedin.com/in/bruno-peretti-4292a01a0/)
+- brunomiguelperetti@gmail.com
 
