@@ -62,9 +62,6 @@ Puedes encontrarme en:
 
 <br/>  
 
-----
-
-
 
 
 <br/>  
